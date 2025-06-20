@@ -12,7 +12,7 @@ Seamlessly switch between your Git identities and SSH keys, globally or per‐re
 Navigate into the project’s folder, install dependencies, and then use the Tauri CLI to start the development server:
 
 ```shell
-cd tauri-app
+cd gitshift
 npm install
 npm run tauri dev
 ```
