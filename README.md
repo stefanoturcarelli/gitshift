@@ -4,9 +4,35 @@ Seamlessly switch between your Git identities and SSH keys, globally or per‐re
 
 ![image](https://github.com/user-attachments/assets/419882cd-9840-4ef1-a18c-18227e333a3e)
 
-## Tauri + React + Typescript
+Make sure you have installed the prerequisites for your OS: [https://tauri.app/start/prerequisites/](https://tauri.app/start/prerequisites/), then run:
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+```shell
+cd gitshift
+```
+
+```shell
+npm install
+```
+
+```shell
+npm run tauri android init
+```
+
+For Desktop development, run:
+
+```shell
+npm run tauri dev
+```
+
+For Android development, run:
+
+```shell
+npm run tauri android dev
+```
+
+## Technologies Used
+
+- Tauri + React and Typescript in Vite.
 
 ### Recommended IDE Setup
 
