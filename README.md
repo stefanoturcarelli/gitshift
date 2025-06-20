@@ -4,6 +4,9 @@ Seamlessly switch between your Git identities and SSH keys, globally or per‐re
 
 ![image](https://github.com/user-attachments/assets/419882cd-9840-4ef1-a18c-18227e333a3e)
 
+![image](https://github.com/user-attachments/assets/49e50579-244e-4b94-9e3b-dd15b92c6fde)
+
+
 ## Start the development server
 
 Navigate into the project’s folder, install dependencies, and then use the Tauri CLI to start the development server:
