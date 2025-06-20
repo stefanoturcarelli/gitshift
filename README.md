@@ -4,31 +4,19 @@ Seamlessly switch between your Git identities and SSH keys, globally or per‐re
 
 ![image](https://github.com/user-attachments/assets/419882cd-9840-4ef1-a18c-18227e333a3e)
 
-Make sure you have installed the prerequisites for your OS: [https://tauri.app/start/prerequisites/](https://tauri.app/start/prerequisites/), then run:
+## Start the development server
+
+Navigate into the project’s folder, install dependencies, and then use the Tauri CLI to start the development server:
 
 ```shell
-cd gitshift
-```
-
-```shell
+cd tauri-app
 npm install
-```
-
-```shell
-npm run tauri android init
-```
-
-For Desktop development, run:
-
-```shell
 npm run tauri dev
 ```
 
-For Android development, run:
+## Dependencies
 
-```shell
-npm run tauri android dev
-```
+- Make sure you have installed the prerequisites for your OS: [https://tauri.app/start/prerequisites/](https://tauri.app/start/prerequisites/)
 
 ## Technologies Used
 
