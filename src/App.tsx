@@ -71,7 +71,7 @@ function App() {
         <div className="max-w-5xl mx-auto">
           {/* Header with Mac-style title */}
           <div className="text-center mb-12">
-            <h1 className="text-5xl font-light text-white mb-3 tracking-tight">
+            <h1 className="text-4xl font-light text-white mb-3 tracking-tight drop-shadow-lg">
               GitShift
             </h1>
             <p className="text-lg text-white/70 font-light">
